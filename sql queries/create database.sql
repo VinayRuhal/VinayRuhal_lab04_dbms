@@ -1,0 +1,1 @@
+create database lab04_dbms;
